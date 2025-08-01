@@ -1,0 +1,7 @@
+return {
+
+    functions = {
+        printf = "print"
+    }
+
+}
